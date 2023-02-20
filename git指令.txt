@@ -1,5 +1,4 @@
-//暂存区 add
-//加入仓库 commit -m'注释'
+//暂存区 add（add . 加入全部）（add 文件名 加入单个）
+//将缓存区内容加入仓库 commit -m("注释")
 //提交日志 log
-//回退版本 reset
-
+//add和commit时屏蔽指定文件或指定文件类型文件：创建.gitignore文件，写入a.py(指定文件），写入（*.txt 指定屏蔽txt类型文件）
