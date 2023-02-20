@@ -1,3 +1,5 @@
 //暂存区 add
-//加入仓库 commit -m("注释")
+//加入仓库 commit -m'注释'
 //提交日志 log
+//回退版本 reset
+
