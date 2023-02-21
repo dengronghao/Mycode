@@ -23,3 +23,8 @@ git reflog常用于恢复本地的错误操作。
 //切换分支 git checkout 分支名
 //分支合并 git merge 分支名（先切换到需要合并到的分支）
 
+//分支删除git branch -d 分支名（检查）     git branch -D 分支名（强制删除，不做检查）
+
+//远程仓库
+//查看远程仓库git remote
+//添加远程仓库 git remote add 库名 ssh地址，报错就git init
