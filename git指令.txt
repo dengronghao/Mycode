@@ -32,3 +32,11 @@ git reflog常用于恢复本地的错误操作。
 //clone
 //在想要的位置右键git bash
 //git clone ssh地址 指定文件夹名称（也可不加）
+
+
+//抓取和拉取
+//抓取git fetch （remote name） （remote branch name）//将仓库更新抓取到本地，不合并，有branch name抓取特定分支，无则抓取全部
+//拉去git pull （remote name） （remote branch name）：local branch name//将远程仓库更新拉取到本地，自动合并
+//pull解决冲突（pull包含merge），和解决merge冲突一样。
+
+ 
