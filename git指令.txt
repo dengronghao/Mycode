@@ -30,3 +30,7 @@ git reflog常用于恢复本地的错误操作。
 //查看远程仓库git remote
 //添加远程仓库 git remote add 库名 ssh地址，报错就git init
 //推送给远程仓库 git push 远程仓库名 本地分支名 远程分支名
+
+
+//clone
+//git clone ssh地址 指定文件夹名称（也可不加）
